@@ -12,3 +12,4 @@ C:\Users\axeba\OneDrive\Desktop\cSharpJourney\variables\obj\Debug\net8.0\refint\
 C:\Users\axeba\OneDrive\Desktop\cSharpJourney\variables\obj\Debug\net8.0\variables.pdb
 C:\Users\axeba\OneDrive\Desktop\cSharpJourney\variables\obj\Debug\net8.0\variables.genruntimeconfig.cache
 C:\Users\axeba\OneDrive\Desktop\cSharpJourney\variables\obj\Debug\net8.0\ref\variables.dll
+C:\Users\axeba\OneDrive\Desktop\cSharpJourney\variables\obj\Debug\net8.0\variables.sourcelink.json
